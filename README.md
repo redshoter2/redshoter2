@@ -1,1 +1,1 @@
-# readme
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=redshoter&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de Richi OV" width="60%">
