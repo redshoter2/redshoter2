@@ -3,8 +3,6 @@ Developer, Mid? Podría ser
 ## Sobre Mi :)
 Programador de Javascript 📚
 
-Intento de HTML y CSS 🥵
-
 * Owner en <a href="https://discord.gg/5Ha2D33hbA">Roody's Community</a> ✨
 
 Compra de Discord Bots 🤖
