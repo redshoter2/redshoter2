@@ -3,7 +3,7 @@ JavaScript Dev
 ## Sobre Mi :)
 Programador de Javascript 📚
 
-* Owner en <a href="https://discord.gg/MthmW32pta">Roody's Shop</a> ✨
+* Owner en <a href="https://discord.roody.es">Roody's Shop</a> ✨
 
 Compra de Discord Bots 🤖
 
