@@ -1,7 +1,7 @@
 # Redshoter 📍
 JavaScript
 
-* Owner en <a href="https://discord.roody.es">Roody's Shop</a> ✨
+* Dueño de <a href="https://discord.roody.es">Roody's Shop</a> ✨
 
 Discord Bots 🤖
 BoxPvPs 🌍
