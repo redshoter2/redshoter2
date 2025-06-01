@@ -1,5 +1,5 @@
 <img src="https://media.discordapp.net/attachments/1249112522913742879/1378770542211104919/3010b0f18cf5a36a7e30e01b19cb3009.png?ex=683dcfa1&is=683c7e21&hm=60b8e3379eea33ac557a62f62caa1492f8857d4f580765817dcc100797eecb1e&=&format=webp&quality=lossless&width=1843&height=718" alt="Banner De Roody" width="1843" height="500" />
-# Redshoter
+<h1>Redshoter</h1>
 
 ---
 
@@ -7,7 +7,6 @@
 
 ---
 
-<table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <b>Sobre mí</b><br>
@@ -23,7 +22,6 @@
       <img src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" alt="Roody" width="120" />
     </td>
   </tr>
-</table>
 
 
 ---
