@@ -1,11 +1,20 @@
-# Readme - redshoter 📍
-JavaScript
+# redshoter 📍
 
-* Dueño de <a href="https://discord.roody.es">Roody's Shop</a> ✨
+JavaScript Developer
 
-Discord Bots 🤖
-BoxPvPs 🌍
-Configuraciones 🔑
+* Dueño de [Roody's Shop](https://discord.roody.es) ✨
+
+**Áreas de trabajo:**
+
+- Discord Bots 🤖  
+- BoxPvP Servers 🌍  
+- Configuraciones y herramientas 🔑
+
+---
 
 ## Estadísticas
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=redshoter2&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de redshoter2" width="60%"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoter2&layout=compact" alt="Lenguajes más usados" width="40%">
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=redshoter2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de redshoter2" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoter2&layout=compact" alt="Lenguajes más usados" width="38%" />
+</p>
