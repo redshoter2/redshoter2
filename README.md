@@ -7,20 +7,17 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; max-width: 800px; margin: auto;">
-  <div style="flex: 1 1 300px; padding-right: 20px; box-sizing: border-box;">
-    <h3>Sobre mí</h3>
-    <ul style="list-style: none; padding-left: 0; line-height: 1.4; font-size: 14px; margin: 0;">
-      <li>🧠 España - País Vasco.</li>
-      <li>🛠️ Especializado en Node.js y Discord.js</li>
-      <li>✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas</li>
-      <li>🚀 Creador de <a href="https://roody.es" target="_blank">roody.es</a> y <a href="https://roody.es/transcripts" target="_blank">roody.es/transcripts</a></li>
-      <li>👮 Github técnico con repositorios gratuitos y privados.</li>
-      <li>🎯 Abierto a ofertas de trabajo remotas.</li>
-      <li>📬 Contácto: <a href="https://discord.roody.es" target="_blank">Discord</a> | <a href="mailto:contactoredshoter@gmail.com">contactoredshoter@gmail.com</a></li>
-    </ul>
-  </div>
-</div>
+<img align="right" height="225px" alt="Roody" src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" />
+
+### Sobre mí
+
+- 🧠 España - País Vasco.
+- 🛠️ Especializado en Node.js y Discord.js
+- ✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas
+- 🚀 Creador de [roody.es](https://roody.es) y [roody.es/transcripts](https://roody.es/transcripts)
+- 👮 Github técnico con repositorios gratuitos y privados.
+- 🎯 Abierto a ofertas de trabajo remotas.
+- 📬 Contácto: [Discord](https://discord.roody.es) | [contactoredshoter@gmail.com](mailto:contactoredshoter@gmail.com)
 
 
 
