@@ -7,27 +7,31 @@
 
 ---
 
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <b>Sobre mí</b><br>
-      - 🧠 España - País Vasco.<br>
-      - 🛠️ Especializado en Node.js y Discord.js<br>
-      - ✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas<br>
-      - 🚀 Creador de <a href="https://roody.es">roody.es</a> y <a href="https://roody.es/transcripts">roody.es/transcripts</a><br>
-      - 👮 Github técnico con repositorios gratuitos y privados.<br>
-      - 🎯 Abierto a ofertas de trabajo remotas.<br>
-      - 📬 Contácto: <a href="https://discord.roody.es">Discord</a> | <a href="mailto:contactoredshoter@gmail.com">contactoredshoter@gmail.com</a>
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" alt="Roody" width="120" />
-    </td>
-  </tr>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
+  <div style="flex: 1; max-width: 65%;">
+    <h3>Sobre mí</h3>
+    <ul>
+      <li>🧠 España - País Vasco.</li>
+      <li>🛠️ Especializado en Node.js y Discord.js</li>
+      <li>✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas</li>
+      <li>🚀 Creador de <a href="https://roody.es">roody.es</a> y <a href="https://roody.es/transcripts">roody.es/transcripts</a></li>
+      <li>👮 Github técnico con repositorios gratuitos y privados.</li>
+      <li>🎯 Abierto a ofertas de trabajo remotas.</li>
+      <li>📬 Contácto: <a href="https://discord.roody.es">Discord</a> | <a href="mailto:contactoredshoter@gmail.com">contactoredshoter@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 120px; margin-left: 20px;">
+    <img src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" alt="Roody" width="120" />
+  </div>
+
+</div>
 
 ---
 
 **Tech Stack y herramientas principales**
-<p float="center">
+<p float="center" align-items="center" align="center">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.JS" width="50" height="50">
   
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.JS" width="50" height="50">
