@@ -1,5 +1,5 @@
-<img src="https://media.discordapp.net/attachments/1249112522913742879/1378770542211104919/3010b0f18cf5a36a7e30e01b19cb3009.png?ex=683dcfa1&is=683c7e21&hm=60b8e3379eea33ac557a62f62caa1492f8857d4f580765817dcc100797eecb1e&=&format=webp&quality=lossless&width=1843&height=718" alt="Banner De Roody" width="1843" height="500" />
-<h1>Redshoter</h1>
+<img src="https://media.discordapp.net/attachments/1249112522913742879/1378770542211104919/3010b0f18cf5a36a7e30e01b19cb3009.png?ex=683dcfa1&is=683c7e21&hm=60b8e3379eea33ac557a62f62caa1492f8857d4f580765817dcc100797eecb1e&=&format=webp&quality=lossless&width=1843&height=718" alt="Banner De Roody" width="1843" height="400" />
+<h1 align="center">Redshoter</h1>
 
 ---
 
@@ -7,33 +7,27 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-  <div style="flex: 1; max-width: 65%;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; max-width: 800px; margin: auto;">
+  <div style="flex: 1 1 300px; padding-right: 20px; box-sizing: border-box;">
     <h3>Sobre mí</h3>
-    <ul>
+    <ul style="list-style: none; padding-left: 0; line-height: 1.4; font-size: 14px; margin: 0;">
       <li>🧠 España - País Vasco.</li>
       <li>🛠️ Especializado en Node.js y Discord.js</li>
       <li>✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas</li>
-      <li>🚀 Creador de <a href="https://roody.es">roody.es</a> y <a href="https://roody.es/transcripts">roody.es/transcripts</a></li>
+      <li>🚀 Creador de <a href="https://roody.es" target="_blank">roody.es</a> y <a href="https://roody.es/transcripts" target="_blank">roody.es/transcripts</a></li>
       <li>👮 Github técnico con repositorios gratuitos y privados.</li>
       <li>🎯 Abierto a ofertas de trabajo remotas.</li>
-      <li>📬 Contácto: <a href="https://discord.roody.es">Discord</a> | <a href="mailto:contactoredshoter@gmail.com">contactoredshoter@gmail.com</a></li>
+      <li>📬 Contácto: <a href="https://discord.roody.es" target="_blank">Discord</a> | <a href="mailto:contactoredshoter@gmail.com">contactoredshoter@gmail.com</a></li>
     </ul>
   </div>
-
-  <div style="flex: 0 0 120px; margin-left: 20px;">
-    <img src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" alt="Roody" width="120" />
-  </div>
-
 </div>
+
+
 
 ---
 
-**Tech Stack y herramientas principales**
+<p align="center"><b>Tech Stack y herramientas principales</b></p>
 <p float="center" align-items="center" align="center">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.JS" width="50" height="50">
-  
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.JS" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50">
@@ -47,7 +41,7 @@
 
 ---
 
-**Proyectos Disponibles**
+**Proyectos disponibles**
 
 - [Roody's Shop](https://discord.roody.es) - Plataforma de bots de Discord
 - [Discord Presence](https://github.com/redshoter2/Discord-Presence) - Pequeño script para presencias de Discord
@@ -57,6 +51,6 @@
 ## Estadísticas
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=redshoter2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de redshoter2" width="500" height="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoter2&layout=compact" alt="Lenguajes más usados" width="500" height="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redshoter2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de redshoter2" width="500" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoter2&layout=compact" alt="Lenguajes más usados" width="500" height="250" />
 </p>
