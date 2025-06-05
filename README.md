@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" height="225px" alt="Roody" src="https://media.discordapp.net/attachments/1249112522913742879/1378337721315102811/logo.png?ex=683d8e09&is=683c3c89&hm=f2dc9286f4f2c7f14393a0f9a2816ef275522899e25bf9dbef39a9d1c6974567&=&format=webp&quality=lossless&width=115&height=115" />
+<img align="right" height="225px" alt="Roody" src="https://roody.es/assets/images/logo.png" />
 
 ### Sobre mí
 
