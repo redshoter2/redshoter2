@@ -42,6 +42,7 @@
 
 - [Roody's Shop](https://discord.roody.es) - Plataforma de bots de Discord
 - [Discord Presence](https://github.com/redshoter2/Discord-Presence) - Pequeño script para presencias de Discord
+- [Embed Builder](https://github.com/redshoter2/embedbuilder) - Creador de Embeds Personalizado [(Fork de embedbuilder)](https://github.com/Glitchii/embedbuilder)
 
 ---
 
