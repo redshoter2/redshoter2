@@ -14,7 +14,7 @@
 - 🧠 España - País Vasco.
 - 🛠️ Especializado en Node.js y Discord.js
 - ✅ Actualmente realizando bots de Discord, APIs, webs y configuraciones externas
-- 🚀 Creador de [roody.es](https://roody.es) y [roody.es/transcripts](https://roody.es/transcripts)
+- 🚀 Creador de [roody.es](https://roody.es)
 - 👮 Github técnico con repositorios gratuitos y privados.
 - 🎯 Abierto a ofertas de trabajo remotas.
 - 📬 Contácto: [Discord](https://discord.roody.es) | [contactoredshoter@gmail.com](mailto:contactoredshoter@gmail.com)
