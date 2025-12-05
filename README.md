@@ -40,15 +40,7 @@
 
 **Proyectos disponibles**
 
-- [Roody's Shop](https://discord.roody.es) - Plataforma de bots de Discord
+- [Roody](https://discord.roody.es) - Plataforma de bots de Discord
 - [Discord Presence](https://github.com/redshoter2/Discord-Presence) - Pequeño script para presencias de Discord
 - [Embed Builder](https://github.com/redshoter2/embedbuilder) - Creador de Embeds Personalizado [(Fork de embedbuilder)](https://github.com/Glitchii/embedbuilder)
-
----
-
-## Estadísticas
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=redshoter2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de redshoter2" width="400" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoter2&layout=compact" alt="Lenguajes más usados" width="400" height="250" />
-</p>
+- [Timestamp Converter](https://timestamp.roody.es) - Creador de Timestamp Para Discord
