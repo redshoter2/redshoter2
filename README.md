@@ -1,4 +1,4 @@
-<img src="http://roody.es/assets/images/roody_banner.webp" alt="Banner De Roody" width="1843" height="400" />
+<img src="http://roody.es/assets/images/banner.png" alt="Banner De Roody" width="1200" height="675" />
 <h1 align="center">Redshoter</h1>
 
 ---
